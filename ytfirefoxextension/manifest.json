@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Smart YouTube Speed Controller",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "Automatically controls YouTube playback speeds - maintains normal speed for music content while allowing custom speeds for other videos.",
 	"author": "Kyle Morgan",
 	"homepage_url": "https://github.com/yourusername/smart-youtube-speed",
